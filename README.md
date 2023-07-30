@@ -1,2 +1,2 @@
 # Proyectos_John
-Proyectos Realizados en cursos de Desarrollo - Platzi
+Curso Práctico de HTML y CSS - Clon de Página de Google
